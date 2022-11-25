@@ -45,8 +45,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 29px;
-    height: 29px;
+    width: 18px;
+    height: 18px;
     padding: 16px;
     border-radius: 50%;
     background: #f1f3f6;
@@ -91,5 +91,4 @@ a {
     justify-content: center;
     align-items: center;
     font-size: 28px;
-    margin-top: 26px;
 }
